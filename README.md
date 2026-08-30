@@ -7,4 +7,4 @@ The goal of the project was to transform raw sales data into meaningful business
 ![Dashboard](CoffeeOrdersData.png)
 
 ## Demo
-![Demo GIF]CoffeeOrdersData-MNguyen.gif)
+![Demo GIF](CoffeeOrdersData-MNguyen.gif)
