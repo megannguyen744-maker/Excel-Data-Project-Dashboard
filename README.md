@@ -4,7 +4,7 @@ This project showcases an interactive Coffee Sales Dashboard built in Microsoft 
 
 The goal of the project was to transform raw sales data into meaningful business insights through data cleaning, PivotTables, charts, and an interactive dashboard. The dashboard provides an easy-to-understand overview of sales performance and helps identify trends across different coffee products, locations, and time periods.
 ## Screenshot
-![Dashboard](CoffeOrdersData.png)
+![Dashboard](CoffeeOrdersData.png)
 
 ## Demo
-![Demo GIF]CoffeOrdersData-MNguyen.gif)
+![Demo GIF]CoffeeOrdersData-MNguyen.gif)
